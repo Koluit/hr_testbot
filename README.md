@@ -2,7 +2,7 @@
 Selenium code example with documented examples..
 
 ## About The Project
-This projectr is built to provide a framework for quickly building out test cases for testing Workday tenants.
+This project is built to provide a framework for quickly building out test cases for the Workday testing Workday tenants.
 
 
 ## Usage
@@ -11,7 +11,7 @@ Some example test cases where someone might use this dataset:
 
 <!-- wp:list {"className":"is-style-default"} -->
 <ul class="is-style-default">
-<li>Website testing and automation<ul>
+<li>Website testing and automation</li>
 <li>Engagement survey tools</li>
 <!-- /wp:list -->
 
