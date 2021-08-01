@@ -33,7 +33,7 @@ class KoluitTest(unittest.TestCase):
         
         driver.implicitly_wait(10)
         main = driver.find_element_by_id("g63-name").send_keys("Test")        
-        main = driver.find_element_by_id("g63-email").send_keys("ryansinnott58@gmail.com")  
+        main = driver.find_element_by_id("g63-email").send_keys("emailhere@email.com")  
         main = driver.find_element_by_id("contact-form-comment-g63-message").send_keys("Testing 123")
         main = driver.find_element_by_class_name("wp-block-button__link")
         main.send_keys(Keys.RETURN)
