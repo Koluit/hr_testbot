@@ -12,7 +12,7 @@ Some example test cases where someone might use this dataset:
 <!-- wp:list {"className":"is-style-default"} -->
 <ul class="is-style-default">
 <li>Website testing and automation</li>
-<li>Engagement survey tools</li>
+<li>Engagement survey tools</li></ul>
 <!-- /wp:list -->
 
 
